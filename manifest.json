@@ -1,6 +1,6 @@
 {
-  "name": "SnowGame",
-  "short_name": "SnowGame",
+  "name": "snowgame",
+  "short_name": "snowgame",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
